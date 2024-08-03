@@ -1,5 +1,5 @@
-#Recommendation System Project
-##Overview
+# Recommendation System Project
+## Overview
 
 This project demonstrates how to build a recommendation system using collaborative filtering with the Singular Value Decomposition (SVD) algorithm. The system recommends movies to users based on their previous ratings from the MovieLens dataset.
 
@@ -19,7 +19,7 @@ surprise
 
 matplotlib
 
-###Setup
+### Setup
 
 Clone the Repository
 
